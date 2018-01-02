@@ -73,6 +73,7 @@ TYPE_GRE = 'gre'
 TYPE_LOCAL = 'local'
 TYPE_VXLAN = 'vxlan'
 TYPE_VLAN = 'vlan'
+TYPE_VPN = 'vpn'
 TYPE_NONE = 'none'
 
 # Values for network_type

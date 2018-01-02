@@ -33,7 +33,7 @@ NONEXISTENT_PEER = 'nonexistent-peer'
 
 # The different types of tunnels
 TUNNEL_NETWORK_TYPES = [p_const.TYPE_GRE, p_const.TYPE_VXLAN,
-                        p_const.TYPE_GENEVE]
+                        p_const.TYPE_GENEVE, p_const.TYPE_VPN]
 
 ### OpenFlow table IDs
 
